@@ -46,7 +46,7 @@ Download the last challenge here "<a href="https://github.com/andiazherInc/Chall
     <tr>
       <td>Reto6</td>
       <td>Oct02</td>
-      <td><a href="https://github.com/andiazherInc/Challenges/raw/master/Reto5.zip">Reto6.zip</a></td>
+      <td><a href="https://github.com/andiazherInc/Challenges/raw/master/Reto6.zip">Reto6.zip</a></td>
     </tr>
     <tr>
       <td>Reto7</td>
