@@ -1,7 +1,7 @@
 # Andres Diaz - Challenges from class 
 Public repository for uploading challenges from mobile devices class
 
-Download the last challenge here "<a href="https://github.com/andiazherInc/Challenges/raw/master/Reto5.zip#reto5">Reto5.zip</a>" or view the <a href="https://github.com/andiazherInc/Challenges">repository</a> 
+Download the last challenge here "<a href="https://github.com/andiazherInc/Challenges/raw/master/Reto6.zip#reto6">Reto6.zip</a>" or view the <a href="https://github.com/andiazherInc/Challenges">repository</a> 
 
 <h1>Challenges</h1>
 <table>
